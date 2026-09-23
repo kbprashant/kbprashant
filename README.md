@@ -68,7 +68,7 @@
 
 ## 🚀 Featured Projects
 
-- **[Arokiyam — Healthcare Booking Platform](play.google.com/store/apps/details?id=com.marchehealthcare.doctorapp)**  
+- **[Arokiyam — Healthcare Booking Platform](https://play.google.com/store/apps/details?id=com.marchehealthcare.doctorapp)**  
   Flutter app connecting patients with healthcare providers. Built end-to-end: mobile app, Node.js backend, PostgreSQL, Docker + AWS (ECS Fargate, EC2, RDS). Includes ambulance booking microservice, PhonePe & Cashfree payment integration, and secure auth.
 
 - **[Laparoscopic Camera Tracking System](https://github.com/kbprashant)**  
