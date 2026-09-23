@@ -15,7 +15,7 @@
 
 ## 👨‍💻 About Me
 
-- 🏥 **Junior Software Engineer at [Marche Healthcare](https://marchehealthcare.com)**, building **Arokiyam** — a Flutter-based healthcare platform with AWS cloud infrastructure
+- 🏥 **Junior Software Engineer at [Marche Healthcare](https://marchehealthcare.org)**, building **Arokiyam** — a Flutter-based healthcare platform with AWS cloud infrastructure
 - 🤖 Built an **autonomous laparoscopic camera tracking system** using YOLO + Arduino, integrating ML inference with robotics firmware
 - 🌾 Developed a **real-time drought simulation platform** for a government-funded agricultural research project using Next.js, FastAPI, MQTT & InfluxDB
 - 🎓 MCA Graduate — **CGPA 9.0** from Sri Manakula Vinayagar Engineering College (2023–2025)
@@ -68,7 +68,7 @@
 
 ## 🚀 Featured Projects
 
-- **[Arokiyam — Healthcare Booking Platform](https://github.com/kbprashant)**  
+- **[Arokiyam — Healthcare Booking Platform](play.google.com/store/apps/details?id=com.marchehealthcare.doctorapp)**  
   Flutter app connecting patients with healthcare providers. Built end-to-end: mobile app, Node.js backend, PostgreSQL, Docker + AWS (ECS Fargate, EC2, RDS). Includes ambulance booking microservice, PhonePe & Cashfree payment integration, and secure auth.
 
 - **[Laparoscopic Camera Tracking System](https://github.com/kbprashant)**  
