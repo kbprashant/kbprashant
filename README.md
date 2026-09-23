@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://kbprashant.github.io/portfolio">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Prasanth+B;Junior+Software+Engineer;Flutter+%7C+Node.js+%7C+AWS;Full-Stack+%26+Healthcare+Tech" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Prasanth+B;Software+Engineer;Flutter+%7C+Node.js+%7C+AWS;Full-Stack+%26+Healthcare+Tech" alt="Typing SVG" />
   </a>
 </h1>
 
